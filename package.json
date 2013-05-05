@@ -1,13 +1,13 @@
 {
   "name": "pulldown-middle-man",
   "version": "0.0.1",
-  "description": "ERROR: No README.md file found!",
+  "description": "A middle-man between the Pulldown API and the CLI client",
   "main": "index.js",
   "scripts": {
-    "test": "tap ./test"
+    "test": "node test/test.js"
   },
   "repository": "",
-  "author": "",
+  "author": "Jack Franklin",
   "license": "MIT",
   "dependencies": {
     "request": "~2.21.0"
