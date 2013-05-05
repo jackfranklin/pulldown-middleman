@@ -1,6 +1,6 @@
 {
   "name": "pulldown-middle-man",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A middle-man between the Pulldown API and the CLI client",
   "main": "index.js",
   "scripts": {
