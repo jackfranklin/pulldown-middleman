@@ -1,12 +1,11 @@
 {
   "name": "pulldown-middle-man",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A middle-man between the Pulldown API and the CLI client",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
   },
-  "repository": "",
   "author": "Jack Franklin",
   "license": "MIT",
   "dependencies": {
